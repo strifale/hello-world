@@ -1,2 +1,7 @@
 "hello"
 "how are you??"
+"I am doing fine"
+"I am not doing fine"
+"ddd"
+"hi"
+"azzzzz"
